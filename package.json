@@ -1,0 +1,19 @@
+{
+ "name": "countrywise",
+ "version": "1.0.0",
+ "description": "An ever-updating library of travel-rich data by countries.",
+ "main": "index.js",
+ "scripts": {
+  "start": "nodemon index.js"
+ },
+ "keywords": [],
+ "author": "",
+ "license": "ISC",
+ "dependencies": {
+  "cors": "^2.8.5",
+  "express": "^4.18.2",
+  "express-basic-auth": "^1.2.1",
+  "nodemon": "^3.0.1",
+  "serve-favicon": "^2.5.0"
+ }
+}
